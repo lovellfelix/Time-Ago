@@ -14,7 +14,7 @@ function timeStamp ($time)
         604800 => 'week',
         86400 => 'day',
         3600 => 'hour',
-        60 => 'min',
+        60 => 'minute',
         1 => 'second'
     );
 
