@@ -23,7 +23,7 @@ The default time units are:
         1 => 'second'
     );
 	
-The text will be automatically de-pluralized if, say there is only 1 year or 2 years.	
+The text will be automatically de-pluralized if, say there is only 1 year.	
 
 		foreach ($tokens as $unit => $text) {
         if ($time < $unit) continue;
