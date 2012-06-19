@@ -1,6 +1,6 @@
 <?php
 $time = strtotime('2012-06-13 15:25:43');  // Time to convert 
-· 8 minutes ago 
+
 echo ' · '.timeStamp($time).' ago '; // Prints timestamp
 
 function timeStamp ($time)
