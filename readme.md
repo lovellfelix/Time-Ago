@@ -13,7 +13,7 @@ The function returns the difference between two Dates as a nice, human string fo
 
 The default time units are:
 
-		$tokens = array (
+	$tokens = array (
         31536000 => 'year',
         2592000 => 'month',
         604800 => 'week',
