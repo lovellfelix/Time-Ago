@@ -1,7 +1,7 @@
 Facebook Style time stamp using PHP
 ===========
 
-The function returns the difference between two Dates as a nice, human string for use in the browser. For instance, the values returned are seconds ago, 50 minutes ago, 7 hours ago, 1 day ago, 2 weeks ago, 1 year ago, and so on.
+The function returns the difference between two Dates as a human string. For instance, the values returned are seconds ago, minutes ago, hours ago, day ago, weeks ago, year ago, and so on.
 
 ###Syntax
     $time = strtotime(YYYY-MM-DD HH:MM:SS)
